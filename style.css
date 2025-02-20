@@ -1,0 +1,38 @@
+.header {
+margin-top: 36px;
+}
+.container {
+max-width: 1150px;
+margin: 0 auto;
+}
+.header__contant {
+display: flex;
+justify-content: space-between;
+}
+.logo {
+
+}
+.nav {
+
+}
+.nav__list {
+display: flex;
+column-gap: 32px;
+}
+.nav__item {
+
+}
+
+ul, ol{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style: none;
+}
+*{
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
